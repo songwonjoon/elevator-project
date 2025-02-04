@@ -34,13 +34,15 @@
 
 ## 회로 구성
 
+**Tinkercad 링크:** [elevator_project](https://www.tinkercad.com/things/fdlfpMHfpyv-fantastic-leelo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=eORkeIhYp53ukfdOvgI_NSa9JIQyYhdOVICOsGYuOiY)
+
 ![Image](https://github.com/user-attachments/assets/b8f33268-c95f-4d82-9627-86a5c58bd849)
 
 ---
 
 ## 순서도
 
-![Image](https://github.com/user-attachments/assets/4bbfc660-072e-433a-a009-e90710f87dfd)
+![Image](https://github.com/user-attachments/assets/1d554f00-8ed5-4be8-9887-222df338048e)
 
 ---
 

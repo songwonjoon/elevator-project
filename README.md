@@ -34,33 +34,13 @@
 
 ## 회로 구성
 
-본 프로젝트에서 사용된 회로는 아래와 같이 구성되었습니다:
-
-- **플랫폼**: Arduino Uno
-- **구성 요소**:
-  - LED: 각 층의 상태를 표시하기 위한 10개의 LED.
-  - 버튼: 각 층 호출을 위한 입력 장치.
-  - 저항: LED 보호용.
-  - 브레드보드와 점퍼 와이어: 회로 연결.
-
-![회로도](https://user-images.tinker_cad_image_placeholder)  
-*이 이미지는 실제 Tinkercad에서 생성된 회로를 보여줍니다.*
+![Image](https://github.com/user-attachments/assets/b8f33268-c95f-4d82-9627-86a5c58bd849)
 
 ---
 
 ## 순서도
 
-본 프로젝트의 동작 로직은 다음 순서도로 설명됩니다:
-
-1. **Start**: 프로그램 시작.
-2. **Initialize Variables**: 변수 초기화.
-3. **Setup**: 초기 설정 진행.
-4. **Loop**: 버튼 입력 대기 및 호출 처리.
-   - 버튼 입력이 있을 경우, 유효성 확인 및 LED 토글.
-   - 호출 대기열이 비어 있지 않은 경우 엘리베이터 이동 처리.
-5. **Process Elevator Movement**: 엘리베이터 이동 후 호출 대기열 업데이트.
-
-![순서도](https://user-images.flowchart_image_placeholder)
+![Image](https://github.com/user-attachments/assets/4bbfc660-072e-433a-a009-e90710f87dfd)
 
 ---
 
